@@ -8,12 +8,12 @@
   "stats": {},
   "inbounds": [
     {
-      "port": 8888,
-      "protocol": "vmess",
+      "port": 2580,
+      "protocol": "vless",
       "settings": {
         "clients": [
           {
-            "id": "ad806487-2d26-4636-98b6-ab85cc8521f7",
+            "id": "24136780-f2c7-42fd-abdb-63af777af634",
             "alterId": 0
           }
         ]
@@ -23,7 +23,7 @@
         "network": "ws",
         "security": "auto",
         "wsSettings": {
-          "path": "/"
+          "path": "/appstore"
         }
       }
     }
